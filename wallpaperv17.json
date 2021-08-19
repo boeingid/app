@@ -51,13 +51,13 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
-"unity_id" : 4045251,
-"unity_test" : true,
+"unity_id" : ,
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"exit_popup_dialog" : "help give us a 5 stars rating, so we keep the spirit of providing the latest updates",
 "rate_button" : "Rate 5 Stars",
 "later_button" : "Rate Later",
 "enable_Share_button" : true,

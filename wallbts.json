@@ -1,0 +1,652 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "backup_mode":"0",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "admob_openid":"ca-app-pub-3940256099942544/3419835294",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "All",
+      "image": "file:///android_asset/image/image32.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "All",
+      "title":"1",
+      "image":"file:///android_asset/image/image01.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "All",
+      "title":"2",
+      "image":"file:///android_asset/image/image02.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "All",
+      "title":"3",
+      "image":"file:///android_asset/image/image03.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "All",
+      "title":"4",
+      "image":"file:///android_asset/image/image04.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "All",
+      "title":"5",
+      "image":"file:///android_asset/image/image05.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "All",
+      "title":"6",
+      "image":"file:///android_asset/image/image06.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "All",
+      "title":"7",
+      "image":"file:///android_asset/image/image07.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "All",
+      "title":"8",
+      "image":"file:///android_asset/image/image08.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "All",
+      "title":"9",
+      "image":"file:///android_asset/image/image09.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "All",
+      "title":"10",
+      "image":"file:///android_asset/image/image10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "All",
+      "title":"11",
+      "image":"file:///android_asset/image/image11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "All",
+      "title":"12",
+      "image":"file:///android_asset/image/image12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "All",
+      "title":"13",
+      "image":"file:///android_asset/image/image13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "All",
+      "title":"14",
+      "image":"file:///android_asset/image/image14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "All",
+      "title":"15",
+      "image":"file:///android_asset/image/image15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "All",
+      "title":"16",
+      "image":"file:///android_asset/image/image16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "All",
+      "title":"17",
+      "image":"file:///android_asset/image/image17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "All",
+      "title":"18",
+      "image":"file:///android_asset/image/image18.png"
+    },
+    {
+      "id":19,
+      "name_category": "All",
+      "title":"19",
+      "image":"file:///android_asset/image/image19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "All",
+      "title":"20",
+      "image":"file:///android_asset/image/image20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "All",
+      "title":"21",
+      "image":"file:///android_asset/image/image21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "All",
+      "title":"22",
+      "image":"file:///android_asset/image/image22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "All",
+      "title":"23",
+      "image":"file:///android_asset/image/image23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "All",
+      "title":"24",
+      "image":"file:///android_asset/image/image24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "All",
+      "title":"25",
+      "image":"file:///android_asset/image/image25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "All",
+      "title":"26",
+      "image":"file:///android_asset/image/image26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "All",
+      "title":"27",
+      "image":"file:///android_asset/image/image27.png"
+    },
+    {
+      "id":28,
+      "name_category": "All",
+      "title":"28",
+      "image":"file:///android_asset/image/image28.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "All",
+      "title":"29",
+      "image":"file:///android_asset/image/image29.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "All",
+      "title":"30",
+      "image":"file:///android_asset/image/image30.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "All",
+      "title":"31",
+      "image":"file:///android_asset/image/image31.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "All",
+      "title":"32",
+      "image":"file:///android_asset/image/image32.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "All",
+      "title":"33",
+      "image":"file:///android_asset/image/image33.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "All",
+      "title":"34",
+      "image":"file:///android_asset/image/image34.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "All",
+      "title":"35",
+      "image":"file:///android_asset/image/image35.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "All",
+      "title":"",
+      "image":"file:///android_asset/image/image36.png"
+    },
+    {
+      "id":37,
+      "name_category": "All",
+      "title":"37",
+      "image":"file:///android_asset/image/image37.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "All",
+      "title":"38",
+      "image":"file:///android_asset/image/image38.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "All",
+      "title":"39",
+      "image":"file:///android_asset/image/image39.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "All",
+      "title":"40",
+      "image":"file:///android_asset/image/image40.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "All",
+      "title":"41",
+      "image":"file:///android_asset/image/image41.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "All",
+      "title":"42",
+      "image":"file:///android_asset/image/image42.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "All",
+      "title":"43",
+      "image":"file:///android_asset/image/image43.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "All",
+      "title":"44",
+      "image":"file:///android_asset/image/image44.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "All",
+      "title":"45",
+      "image":"file:///android_asset/image/image45.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "All",
+      "title":"46",
+      "image":"file:///android_asset/image/image46.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "All",
+      "title":"47",
+      "image":"file:///android_asset/image/image47.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "All",
+      "title":"48",
+      "image":"file:///android_asset/image/image48.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "All",
+      "title":"49",
+      "image":"file:///android_asset/image/image49.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "All",
+      "title":"50",
+      "image":"file:///android_asset/image/image50.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "All",
+      "title":"51",
+      "image":"file:///android_asset/image/image51.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "All",
+      "title":"52",
+      "image":"file:///android_asset/image/image52.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "All",
+      "title":"53",
+      "image":"file:///android_asset/image/image53.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "All",
+      "title":"54",
+      "image":"file:///android_asset/image/image54.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "All",
+      "title":"55",
+      "image":"file:///android_asset/image/image55.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "All",
+      "title":"56",
+      "image":"file:///android_asset/image/image56.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "All",
+      "title":"57",
+      "image":"file:///android_asset/image/image57.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "All",
+      "title":"58",
+      "image":"file:///android_asset/image/image58.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "All",
+      "title":"59",
+      "image":"file:///android_asset/image/image59.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "All",
+      "title":"60",
+      "image":"file:///android_asset/image/image60.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "All",
+      "title":"61",
+      "image":"file:///android_asset/image/image61.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "All",
+      "title":"62",
+      "image":"file:///android_asset/image/image62.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "All",
+      "title":"63",
+      "image":"file:///android_asset/image/image63.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "All",
+      "title":"64",
+      "image":"file:///android_asset/image/image64.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "All",
+      "title":"65",
+      "image":"file:///android_asset/image/image65.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "All",
+      "title":"66",
+      "image":"file:///android_asset/image/image66.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "All",
+      "title":"67",
+      "image":"file:///android_asset/image/image67.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "All",
+      "title":"68",
+      "image":"file:///android_asset/image/image68.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "All",
+      "title":"69",
+      "image":"file:///android_asset/image/image69.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "All",
+      "title":"70",
+      "image":"file:///android_asset/image/image70.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "All",
+      "title":"71",
+      "image":"file:///android_asset/image/image71.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "All",
+      "title":"72",
+      "image":"file:///android_asset/image/image72.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "All",
+      "title":"73",
+      "image":"file:///android_asset/image/image73.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "All",
+      "title":"74",
+      "image":"file:///android_asset/image/image74.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "All",
+      "title":"75",
+      "image":"file:///android_asset/image/image75.png"
+    },
+    {
+      "id":76,
+      "name_category": "All",
+      "title":"76",
+      "image":"file:///android_asset/image/image76.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "All",
+      "title":"77",
+      "image":"file:///android_asset/image/image77.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "All",
+      "title":"78",
+      "image":"file:///android_asset/image/image78.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "All",
+      "title":"79",
+      "image":"file:///android_asset/image/image79.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "All",
+      "title":"80",
+      "image":"file:///android_asset/image/image80.png"
+    },
+    {
+      "id":81,
+      "name_category": "All",
+      "title":"81",
+      "image":"file:///android_asset/image/image81.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "All",
+      "title":"82",
+      "image":"file:///android_asset/image/image82.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "All",
+      "title":"83",
+      "image":"file:///android_asset/image/image83.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "All",
+      "title":"84",
+      "image":"file:///android_asset/image/image84.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "All",
+      "title":"85",
+      "image":"file:///android_asset/image/image85.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "All",
+      "title":"86",
+      "image":"file:///android_asset/image/image86.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "All",
+      "title":"87",
+      "image":"file:///android_asset/image/image87.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "All",
+      "title":"88",
+      "image":"file:///android_asset/image/image88.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "All",
+      "title":"89",
+      "image":"file:///android_asset/image/image89.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "All",
+      "title":"90",
+      "image":"file:///android_asset/image/image90.jpg"
+    },
+    {
+      "id":91,
+      "name_category": "All",
+      "title":"91",
+      "image":"file:///android_asset/image/image91.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "All",
+      "title":"92",
+      "image":"file:///android_asset/image/image92.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "All",
+      "title":"93",
+      "image":"file:///android_asset/image/image93.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "All",
+      "title":"94",
+      "image":"file:///android_asset/image/image94.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "All",
+      "title":"95",
+      "image":"file:///android_asset/image/image95.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "All",
+      "title":"96",
+      "image":"file:///android_asset/image/image96.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "All",
+      "title":"97",
+      "image":"file:///android_asset/image/image97.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "All",
+      "title":"98",
+      "image":"file:///android_asset/image/image98.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "All",
+      "title":"99",
+      "image":"file:///android_asset/image/image99.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "All",
+      "title":"100",
+      "image":"file:///android_asset/image/image100.jpg"
+    }
+  ]
+}

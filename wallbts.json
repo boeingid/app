@@ -4,8 +4,8 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
       "backup_mode":"0",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-9833673316820711/7075913467",
+      "main_ads_intertitial":"ca-app-pub-9833673316820711/3603572316",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "admob_openid":"ca-app-pub-3940256099942544/3419835294",
@@ -28,12 +28,6 @@
       "title":"Homescapes",
       "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"",
-      "image":"",
-      "link":""
     }
   ],
 

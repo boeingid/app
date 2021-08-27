@@ -1,0 +1,496 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "backup_mode":"0",
+      "main_ads_banner": "ca-app-pub-9833673316820711/5760700476",
+      "main_ads_intertitial":"ca-app-pub-9833673316820711/1449371638",
+      "backup_ads_banner":"6413ef251958023a",
+      "backup_ads_intertitial":"9c94e60334788137",
+      "admob_openid":"ca-app-pub-9833673316820711/7547876129",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BT21",
+      "image": "file:///android_asset/image/image32.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BT21",
+      "title":"1",
+      "image":"file:///android_asset/image/image01.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "BT21",
+      "title":"2",
+      "image":"file:///android_asset/image/image02.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "BT21",
+      "title":"3",
+      "image":"file:///android_asset/image/image03.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BT21",
+      "title":"4",
+      "image":"file:///android_asset/image/image04.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "BT21",
+      "title":"5",
+      "image":"file:///android_asset/image/image05.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "BT21",
+      "title":"6",
+      "image":"file:///android_asset/image/image06.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BT21",
+      "title":"7",
+      "image":"file:///android_asset/image/image07.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "BT21",
+      "title":"8",
+      "image":"file:///android_asset/image/image08.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "BT21",
+      "title":"9",
+      "image":"file:///android_asset/image/image09.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BT21",
+      "title":"10",
+      "image":"file:///android_asset/image/image10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "BT21",
+      "title":"11",
+      "image":"file:///android_asset/image/image11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "BT21",
+      "title":"12",
+      "image":"file:///android_asset/image/image12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BT21",
+      "title":"13",
+      "image":"file:///android_asset/image/image13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "BT21",
+      "title":"14",
+      "image":"file:///android_asset/image/image14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "BT21",
+      "title":"15",
+      "image":"file:///android_asset/image/image15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BT21",
+      "title":"16",
+      "image":"file:///android_asset/image/image16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "BT21",
+      "title":"17",
+      "image":"file:///android_asset/image/image17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "BT21",
+      "title":"18",
+      "image":"file:///android_asset/image/image18.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BT21",
+      "title":"19",
+      "image":"file:///android_asset/image/image19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "BT21",
+      "title":"20",
+      "image":"file:///android_asset/image/image20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "BT21",
+      "title":"21",
+      "image":"file:///android_asset/image/image21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BT21",
+      "title":"22",
+      "image":"file:///android_asset/image/image22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "BT21",
+      "title":"23",
+      "image":"file:///android_asset/image/image23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "BT21",
+      "title":"24",
+      "image":"file:///android_asset/image/image24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "BT21",
+      "title":"25",
+      "image":"file:///android_asset/image/image25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "BT21",
+      "title":"26",
+      "image":"file:///android_asset/image/image26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "BT21",
+      "title":"27",
+      "image":"file:///android_asset/image/image27.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "BT21",
+      "title":"28",
+      "image":"file:///android_asset/image/image28.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "BT21",
+      "title":"29",
+      "image":"file:///android_asset/image/image29.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "BT21",
+      "title":"30",
+      "image":"file:///android_asset/image/image30.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "BT21",
+      "title":"31",
+      "image":"file:///android_asset/image/image31.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "BT21",
+      "title":"32",
+      "image":"file:///android_asset/image/image32.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "BT21",
+      "title":"33",
+      "image":"file:///android_asset/image/image33.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BT21",
+      "title":"34",
+      "image":"file:///android_asset/image/image34.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "BT21",
+      "title":"35",
+      "image":"file:///android_asset/image/image35.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "BT21",
+      "title":"",
+      "image":"file:///android_asset/image/image36.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "BT21",
+      "title":"37",
+      "image":"file:///android_asset/image/image37.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "BT21",
+      "title":"38",
+      "image":"file:///android_asset/image/image38.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "BT21",
+      "title":"39",
+      "image":"file:///android_asset/image/image39.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BT21",
+      "title":"40",
+      "image":"file:///android_asset/image/image40.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "BT21",
+      "title":"41",
+      "image":"file:///android_asset/image/image41.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "BT21",
+      "title":"42",
+      "image":"file:///android_asset/image/image42.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "BT21",
+      "title":"43",
+      "image":"file:///android_asset/image/image43.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "BT21",
+      "title":"44",
+      "image":"file:///android_asset/image/image44.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "BT21",
+      "title":"45",
+      "image":"file:///android_asset/image/image45.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BT21",
+      "title":"46",
+      "image":"file:///android_asset/image/image46.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "BT21",
+      "title":"47",
+      "image":"file:///android_asset/image/image47.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "BT21",
+      "title":"48",
+      "image":"file:///android_asset/image/image48.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BT21",
+      "title":"49",
+      "image":"file:///android_asset/image/image49.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "BT21",
+      "title":"50",
+      "image":"file:///android_asset/image/image50.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "BT21",
+      "title":"51",
+      "image":"file:///android_asset/image/image51.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BT21",
+      "title":"52",
+      "image":"file:///android_asset/image/image52.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "BT21",
+      "title":"53",
+      "image":"file:///android_asset/image/image53.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "BT21",
+      "title":"54",
+      "image":"file:///android_asset/image/image54.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BT21",
+      "title":"55",
+      "image":"file:///android_asset/image/image55.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "BT21",
+      "title":"56",
+      "image":"file:///android_asset/image/image56.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "BT21",
+      "title":"57",
+      "image":"file:///android_asset/image/image57.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BT21",
+      "title":"58",
+      "image":"file:///android_asset/image/image58.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "BT21",
+      "title":"59",
+      "image":"file:///android_asset/image/image59.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "BT21",
+      "title":"60",
+      "image":"file:///android_asset/image/image60.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "BT21",
+      "title":"61",
+      "image":"file:///android_asset/image/image61.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "BT21",
+      "title":"62",
+      "image":"file:///android_asset/image/image62.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "BT21",
+      "title":"63",
+      "image":"file:///android_asset/image/image63.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BT21",
+      "title":"64",
+      "image":"file:///android_asset/image/image64.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "BT21",
+      "title":"65",
+      "image":"file:///android_asset/image/image65.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "BT21",
+      "title":"66",
+      "image":"file:///android_asset/image/image66.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "BT21",
+      "title":"67",
+      "image":"file:///android_asset/image/image67.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "BT21",
+      "title":"68",
+      "image":"file:///android_asset/image/image68.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "BT21",
+      "title":"69",
+      "image":"file:///android_asset/image/image69.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "BT21",
+      "title":"70",
+      "image":"file:///android_asset/image/image70.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "BT21",
+      "title":"71",
+      "image":"file:///android_asset/image/image71.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "BT21",
+      "title":"72",
+      "image":"file:///android_asset/image/image72.png"
+    },
+    {
+      "id":73,
+      "name_category": "BT21",
+      "title":"73",
+      "image":"file:///android_asset/image/image73.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "BT21",
+      "title":"74",
+      "image":"file:///android_asset/image/image74.jpg"
+    }
+  ]
+}

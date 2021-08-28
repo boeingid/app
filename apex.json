@@ -1,0 +1,346 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "backup_mode":"0",
+      "main_ads_banner": "ca-app-pub-9833673316820711/5836135362",
+      "main_ads_intertitial":"ca-app-pub-9833673316820711/3209972023",
+      "backup_ads_banner":"6413ef251958023a",
+      "backup_ads_intertitial":"9c94e60334788137",
+      "admob_openid":"ca-app-pub-9833673316820711/4106258908",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"BTS Wallpaper - Best HD Full Screen 4K Photos",
+      "image":"https://play-lh.googleusercontent.com/UKPpc6lq3lli4xpKdqN5omnxJhYxXOEqINngh17BKEAAFOW3FyLXIFkvL45yJ0mYnuG7=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.adydev.wallpaper.bts"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "APEX LEGENDS",
+      "image": "file:///android_asset/image/image06.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "APEX LEGENDS",
+      "title":"1",
+      "image":"file:///android_asset/image/image01.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "APEX LEGENDS",
+      "title":"2",
+      "image":"file:///android_asset/image/image02.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "APEX LEGENDS",
+      "title":"3",
+      "image":"file:///android_asset/image/image03.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "APEX LEGENDS",
+      "title":"4",
+      "image":"file:///android_asset/image/image04.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "APEX LEGENDS",
+      "title":"5",
+      "image":"file:///android_asset/image/image05.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "APEX LEGENDS",
+      "title":"6",
+      "image":"file:///android_asset/image/image06.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "APEX LEGENDS",
+      "title":"7",
+      "image":"file:///android_asset/image/image07.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "APEX LEGENDS",
+      "title":"8",
+      "image":"file:///android_asset/image/image08.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "APEX LEGENDS",
+      "title":"9",
+      "image":"file:///android_asset/image/image09.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "APEX LEGENDS",
+      "title":"10",
+      "image":"file:///android_asset/image/image10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "APEX LEGENDS",
+      "title":"11",
+      "image":"file:///android_asset/image/image11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "APEX LEGENDS",
+      "title":"12",
+      "image":"file:///android_asset/image/image12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "APEX LEGENDS",
+      "title":"13",
+      "image":"file:///android_asset/image/image13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "APEX LEGENDS",
+      "title":"14",
+      "image":"file:///android_asset/image/image14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "APEX LEGENDS",
+      "title":"15",
+      "image":"file:///android_asset/image/image15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "APEX LEGENDS",
+      "title":"16",
+      "image":"file:///android_asset/image/image16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "APEX LEGENDS",
+      "title":"17",
+      "image":"file:///android_asset/image/image17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "APEX LEGENDS",
+      "title":"18",
+      "image":"file:///android_asset/image/image18.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "APEX LEGENDS",
+      "title":"19",
+      "image":"file:///android_asset/image/image19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "APEX LEGENDS",
+      "title":"20",
+      "image":"file:///android_asset/image/image20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "APEX LEGENDS",
+      "title":"21",
+      "image":"file:///android_asset/image/image21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "APEX LEGENDS",
+      "title":"22",
+      "image":"file:///android_asset/image/image22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "APEX LEGENDS",
+      "title":"23",
+      "image":"file:///android_asset/image/image23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "APEX LEGENDS",
+      "title":"24",
+      "image":"file:///android_asset/image/image24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "APEX LEGENDS",
+      "title":"25",
+      "image":"file:///android_asset/image/image25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "APEX LEGENDS",
+      "title":"26",
+      "image":"file:///android_asset/image/image26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "APEX LEGENDS",
+      "title":"27",
+      "image":"file:///android_asset/image/image27.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "APEX LEGENDS",
+      "title":"28",
+      "image":"file:///android_asset/image/image28.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "APEX LEGENDS",
+      "title":"29",
+      "image":"file:///android_asset/image/image29.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "APEX LEGENDS",
+      "title":"30",
+      "image":"file:///android_asset/image/image30.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "APEX LEGENDS",
+      "title":"31",
+      "image":"file:///android_asset/image/image31.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "APEX LEGENDS",
+      "title":"32",
+      "image":"file:///android_asset/image/image32.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "APEX LEGENDS",
+      "title":"33",
+      "image":"file:///android_asset/image/image33.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "APEX LEGENDS",
+      "title":"34",
+      "image":"file:///android_asset/image/image34.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "APEX LEGENDS",
+      "title":"35",
+      "image":"file:///android_asset/image/image35.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "APEX LEGENDS",
+      "title":"",
+      "image":"file:///android_asset/image/image36.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "APEX LEGENDS",
+      "title":"37",
+      "image":"file:///android_asset/image/image37.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "APEX LEGENDS",
+      "title":"38",
+      "image":"file:///android_asset/image/image38.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "APEX LEGENDS",
+      "title":"39",
+      "image":"file:///android_asset/image/image39.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "APEX LEGENDS",
+      "title":"40",
+      "image":"file:///android_asset/image/image40.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "APEX LEGENDS",
+      "title":"41",
+      "image":"file:///android_asset/image/image41.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "APEX LEGENDS",
+      "title":"42",
+      "image":"file:///android_asset/image/image42.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "APEX LEGENDS",
+      "title":"43",
+      "image":"file:///android_asset/image/image43.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "APEX LEGENDS",
+      "title":"44",
+      "image":"file:///android_asset/image/image44.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "APEX LEGENDS",
+      "title":"45",
+      "image":"file:///android_asset/image/image45.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "APEX LEGENDS",
+      "title":"46",
+      "image":"file:///android_asset/image/image46.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "APEX LEGENDS",
+      "title":"47",
+      "image":"file:///android_asset/image/image47.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "APEX LEGENDS",
+      "title":"48",
+      "image":"file:///android_asset/image/image48.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "APEX LEGENDS",
+      "title":"49",
+      "image":"file:///android_asset/image/image49.jpg"
+    }
+  ]
+}

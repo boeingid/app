@@ -3,14 +3,19 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "backup_mode":"0",
       "main_ads_banner": "ca-app-pub-9833673316820711/5760700476",
       "main_ads_intertitial":"ca-app-pub-9833673316820711/1449371638",
-      "backup_ads_banner":"6413ef251958023a",
-      "backup_ads_intertitial":"9c94e60334788137",
-      "admob_openid":"ca-app-pub-9833673316820711/7547876129",
+      "native_for_admob":"ca-app-pub-9833673316820711/1782954681",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"null",
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
@@ -19,9 +24,9 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"BTS Wallpaper - Best HD Full Screen 4K Photos",
+      "image":"https://play-lh.googleusercontent.com/UKPpc6lq3lli4xpKdqN5omnxJhYxXOEqINngh17BKEAAFOW3FyLXIFkvL45yJ0mYnuG7=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.adydev.wallpaper.bts"
     },
     {
       "id":2,

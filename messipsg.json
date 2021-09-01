@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "backup_mode":"0",
+      "main_ads_banner": "ca-app-pub-9833673316820711/8025462238",
+      "main_ads_intertitial":"ca-app-pub-9833673316820711/2573825009",
+      "backup_ads_banner":"6413ef251958023a",
+      "backup_ads_intertitial":"9c94e60334788137",
+      "admob_openid":"ca-app-pub-9833673316820711/5004547229",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Offline",
+      "image": "file:///android_asset/image/image25.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Offline",
+      "title":"1",
+      "image":"file:///android_asset/image/image01.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Offline",
+      "title":"2",
+      "image":"file:///android_asset/image/image02.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Offline",
+      "title":"3",
+      "image":"file:///android_asset/image/image03.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Offline",
+      "title":"4",
+      "image":"file:///android_asset/image/image04.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Offline",
+      "title":"5",
+      "image":"file:///android_asset/image/image05.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Offline",
+      "title":"6",
+      "image":"file:///android_asset/image/image06.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Offline",
+      "title":"7",
+      "image":"file:///android_asset/image/image07.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Offline",
+      "title":"8",
+      "image":"file:///android_asset/image/image08.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Offline",
+      "title":"9",
+      "image":"file:///android_asset/image/image09.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Offline",
+      "title":"10",
+      "image":"file:///android_asset/image/image10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Offline",
+      "title":"11",
+      "image":"file:///android_asset/image/image11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Offline",
+      "title":"12",
+      "image":"file:///android_asset/image/image12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Offline",
+      "title":"13",
+      "image":"file:///android_asset/image/image13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Offline",
+      "title":"14",
+      "image":"file:///android_asset/image/image14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Offline",
+      "title":"15",
+      "image":"file:///android_asset/image/image15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Offline",
+      "title":"16",
+      "image":"file:///android_asset/image/image16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Offline",
+      "title":"17",
+      "image":"file:///android_asset/image/image17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Offline",
+      "title":"18",
+      "image":"file:///android_asset/image/image18.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Offline",
+      "title":"19",
+      "image":"file:///android_asset/image/image19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Offline",
+      "title":"20",
+      "image":"file:///android_asset/image/image20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Offline",
+      "title":"21",
+      "image":"file:///android_asset/image/image21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Offline",
+      "title":"22",
+      "image":"file:///android_asset/image/image22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Offline",
+      "title":"23",
+      "image":"file:///android_asset/image/image23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Offline",
+      "title":"24",
+      "image":"file:///android_asset/image/image24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Offline",
+      "title":"25",
+      "image":"file:///android_asset/image/image25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Offline",
+      "title":"26",
+      "image":"file:///android_asset/image/image26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Offline",
+      "title":"27",
+      "image":"file:///android_asset/image/image27.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Offline",
+      "title":"28",
+      "image":"file:///android_asset/image/image28.jpg"
+    }
+  ]
+}

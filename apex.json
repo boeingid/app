@@ -3,14 +3,19 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "backup_mode":"0",
       "main_ads_banner": "ca-app-pub-9833673316820711/5836135362",
       "main_ads_intertitial":"ca-app-pub-9833673316820711/3209972023",
+      "native_for_admob":"ca-app-pub-9833673316820711/3590042138",
       "backup_ads_banner":"6413ef251958023a",
       "backup_ads_intertitial":"9c94e60334788137",
-      "admob_openid":"ca-app-pub-9833673316820711/4106258908",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
@@ -31,9 +36,9 @@
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"BT21 Cute HD Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/yKKI0zY42HUNvWiCdufOu52I31s-JIWZSX5of6ZY-RoXSq8Xo88rpckcV6U5A8tRY-c=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.bt21adydev.onlinewallpaper"
     }
   ],
 

@@ -3,9 +3,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "ca-app-pub-9833673316820711/7075913467",
+      "main_ads_intertitial":"ca-app-pub-9833673316820711/3603572316",
+      "native_for_admob":"ca-app-pub-9833673316820711/7980697370",
       "backup_ads_banner":"qwert12345",
       "backup_ads_intertitial":"qwert12345",
       "interval_intertitial": 5,
@@ -30,9 +30,9 @@
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Messi PSG wallpaper 4k HD",
+      "image":"https://play-lh.googleusercontent.com/xMj2nuMyRwhNpngu5OyDiDddCsZ55egthOO35V4DFUeQsXZBR0J482Y9MlbEw2O7iFQ=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.adydev.messipsg.hdwallpaper"
     },
     {
       "id":3,

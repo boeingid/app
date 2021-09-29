@@ -1,0 +1,237 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"BTS Wallpaper - Best HD Full Screen 4K Photos",
+      "image":"https://play-lh.googleusercontent.com/UKPpc6lq3lli4xpKdqN5omnxJhYxXOEqINngh17BKEAAFOW3FyLXIFkvL45yJ0mYnuG7=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.adydev.wallpaper.bts"
+    },
+    {
+      "id":2,
+      "title":"Messi PSG wallpaper 4k HD",
+      "image":"https://play-lh.googleusercontent.com/xMj2nuMyRwhNpngu5OyDiDddCsZ55egthOO35V4DFUeQsXZBR0J482Y9MlbEw2O7iFQ=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.adydev.messipsg.hdwallpaper"
+    },
+    {
+      "id":3,
+      "title":"BT21 Cute HD Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/yKKI0zY42HUNvWiCdufOu52I31s-JIWZSX5of6ZY-RoXSq8Xo88rpckcV6U5A8tRY-c=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.bt21adydev.onlinewallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Squid Game",
+      "image": "file:///android_asset/image/image06.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Squid Game",
+      "title":"1",
+      "image":"file:///android_asset/image/image01.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Squid Game",
+      "title":"2",
+      "image":"file:///android_asset/image/image02.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Squid Game",
+      "title":"3",
+      "image":"file:///android_asset/image/image03.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Squid Game",
+      "title":"4",
+      "image":"file:///android_asset/image/image04.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Squid Game",
+      "title":"5",
+      "image":"file:///android_asset/image/image05.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Squid Game",
+      "title":"6",
+      "image":"file:///android_asset/image/image06.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Squid Game",
+      "title":"7",
+      "image":"file:///android_asset/image/image07.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Squid Game",
+      "title":"8",
+      "image":"file:///android_asset/image/image08.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Squid Game",
+      "title":"9",
+      "image":"file:///android_asset/image/image09.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Squid Game",
+      "title":"10",
+      "image":"file:///android_asset/image/image10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Squid Game",
+      "title":"11",
+      "image":"file:///android_asset/image/image11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Squid Game",
+      "title":"12",
+      "image":"file:///android_asset/image/image12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Squid Game",
+      "title":"13",
+      "image":"file:///android_asset/image/image13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Squid Game",
+      "title":"14",
+      "image":"file:///android_asset/image/image14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Squid Game",
+      "title":"15",
+      "image":"file:///android_asset/image/image15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Squid Game",
+      "title":"16",
+      "image":"file:///android_asset/image/image16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Squid Game",
+      "title":"17",
+      "image":"file:///android_asset/image/image17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Squid Game",
+      "title":"18",
+      "image":"file:///android_asset/image/image18.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Squid Game",
+      "title":"19",
+      "image":"file:///android_asset/image/image19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Squid Game",
+      "title":"20",
+      "image":"file:///android_asset/image/image20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Squid Game",
+      "title":"21",
+      "image":"file:///android_asset/image/image21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Squid Game",
+      "title":"22",
+      "image":"file:///android_asset/image/image22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Squid Game",
+      "title":"23",
+      "image":"file:///android_asset/image/image23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Squid Game",
+      "title":"24",
+      "image":"file:///android_asset/image/image24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Squid Game",
+      "title":"25",
+      "image":"file:///android_asset/image/image25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Squid Game",
+      "title":"26",
+      "image":"file:///android_asset/image/image26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Squid Game",
+      "title":"27",
+      "image":"file:///android_asset/image/image27.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Squid Game",
+      "title":"28",
+      "image":"file:///android_asset/image/image28.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Squid Game",
+      "title":"29",
+      "image":"file:///android_asset/image/image29.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Squid Game",
+      "title":"30",
+      "image":"file:///android_asset/image/image30.jpg"
+    }
+  ]
+}
